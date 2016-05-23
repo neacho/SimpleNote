@@ -1,0 +1,5 @@
+F:\winform\NoteUI\Application\Note.Core.dll
+F:\winform\NoteUI\Application\Note.Core.pdb
+F:\winform\NoteUI\Note.Core\obj\Debug\Note.Core.csprojResolveAssemblyReference.cache
+F:\winform\NoteUI\Note.Core\obj\Debug\Note.Core.dll
+F:\winform\NoteUI\Note.Core\obj\Debug\Note.Core.pdb

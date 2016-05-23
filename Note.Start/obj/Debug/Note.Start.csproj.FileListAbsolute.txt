@@ -1,0 +1,11 @@
+F:\winform\NoteUI\Note.Start\bin\Debug\Note.Start.exe.config
+F:\winform\NoteUI\Application\Note.Start.exe.config
+F:\winform\NoteUI\Application\Note.Start.exe
+F:\winform\NoteUI\Application\Note.Start.pdb
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.csprojResolveAssemblyReference.cache
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.Properties.Resources.resources
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.csproj.GenerateResource.Cache
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.exe
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.pdb
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.Main.resources
+F:\winform\NoteUI\Note.Start\obj\Debug\Note.Start.NoteForm.resources
